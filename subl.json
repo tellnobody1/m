@@ -23,7 +23,7 @@
   "auto_match_enabled": false,
   "auto_close_tags": false,
   "highlight_line_number": false,
-  "font_face": "Fira Code",
+  "font_face": "Cascadia Code",
   "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".Trash", ".Trash-*", "target"],
   "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", ".directory", "desktop.ini", "*.class", "*.psd", "*.db", "*.sublime-workspace", "*.tasty"], 
   "index_files": true,
