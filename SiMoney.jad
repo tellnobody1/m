@@ -1,0 +1,13 @@
+MIDlet-1: SiMoney, /account.png, SiMoney
+MIDlet-Description: Personal Account Manager
+MIDlet-Icon: /account.png
+MIDlet-Info-URL: pernice@libero.it
+MIDlet-Jar-Size: 106992
+MIDlet-Jar-URL: SiMoney.jar
+MIDlet-Name: SiMoney
+MIDlet-Permissions: 
+MIDlet-Permissions-Opt: 
+MIDlet-Vendor: Simone
+MIDlet-Version: 2.0.4
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
