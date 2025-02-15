@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 1.6.0_03-b05 (Sun Microsystems Inc.)
+MIDlet-Data-Size: 1024
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Name: Bounce Tales
+MIDlet-Icon: /icon.png
+MIDlet-Vendor: Nokia
+MIDlet-1: Bounce Tales, /icon.png, RMIDlet
+MIDlet-Version: 2.0.25
+MicroEdition-Profile: MIDP-2.0
+Nokia-Platform: *
+more_games_status: on
+more_games_url: http://dedomil.net/games/
+MIDlet-Delete-Confirm: More free games on dedomil.net
+MIDlet-Description: Visit dedomil.net for more games!
+MIDlet-Info-URL: http://dedomil.net
+MIDlet-Jar-Size: 606720
+MIDlet-Jar-URL: http://dedomil.net/games/7928/download-jar/92278
+Nokia-MIDlet-Category: Game
