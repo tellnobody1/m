@@ -1,0 +1,19 @@
+MIDlet-Name: Platinum Solitaire 3
+MIDlet-Vendor: Gameloft SA
+MIDlet-1: Platinum Solitaire 3, /icon.png, GloftPSO3
+MIDlet-Icon: /icon.png
+MIDlet-Permissions: javax.microedition.io.Connector.http
+Nokia-MIDlet-Category: Game
+MIDlet-Description: A wide variety of card games for unlimited fun!
+MIDlet-Version: 1.0.9
+MIDlet-Jar-URL: http://dedomil.net/games/256/download-jar/3953
+MIDlet-Jar-Size: 1026350
+URL-TEMPLATE-GAME: http://dedomil.net/games/
+URL-OPERATOR: http://dedomil.net/games/
+URL-PT: 0
+IGP-PROMOS: BLB3=BLB3;BRC3=BRC3;UNOG=UNOG;
+IGP-WN: LPL2=LPL2_WN;BUB2=BUB2_WN;MPL2=MPL2_WN;LBOW=LBOW_WN;
+IGP-BS: MHM2=MHM2_BS;ASP4=ASP4_BS;DITW=DITW_BS;RF11=RF11_BS;
+IGP-CATEGORIES: WN=WN;BS=BS;PROMO=PROMO;OP=OP;
+IGP-VERSION: 2.1
+
