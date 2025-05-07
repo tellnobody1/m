@@ -1,0 +1,121 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.6.0
+Created-By: 1.5.0-b64 (Sun Microsystems Inc.)
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: GravityDefied
+MIDlet-1: GravityDefied, ico.png, Micro
+MIDlet-Vendor: pascha
+MIDlet-Version: 1.0
+MicroEdition-Profile: MIDP-1.0
+Name: k.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: 51hpy7v2Xv9mq3yzI6fCMYJk640=
+MD5-Digest: oCtVksatJNoi1Jc5AJthrg==
+Name: d.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: rs4sYG4P/x9rxw+uG9dEgx61n0U=
+MD5-Digest: pZoISTQRybQjmrj/wSf6nA==
+Name: f.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: tWVu5YGwuG2djVKi1TP6wwCtlk0=
+MD5-Digest: WQulpQXQICK8BAm/7rHnGA==
+Name: a.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: sIGgwGJO1tacb10iZ+qGOeGbv88=
+MD5-Digest: hNotBK1M0U7cLcRx6C4flQ==
+Name: l.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: /Z3g2AbWrZ0IsEa53rztcb9MEKY=
+MD5-Digest: 2A+FDkafXyg4djr7HH2SFQ==
+Name: i.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: 7DhtS0qoooZ3S/mkxjnl3KDk+yc=
+MD5-Digest: 85pujdLGtlZPviwK0k4Rsg==
+Name: e.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: YdtPcKb1g/i1tQFTqRf0Xxu1V34=
+MD5-Digest: sR3crRogAXX71xnLAJ4U0g==
+Name: c.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: RIzn36/IBTbwNfE2KUi1325gPw8=
+MD5-Digest: iX2cDgZYjpENpaF8AZILHQ==
+Name: j.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: WuVw/4/jNEhXqjyXsV9z2QVtzcg=
+MD5-Digest: aVrEBD177fa9S/x2tRmdjA==
+Name: Micro.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: 2Ugc3BjTgdbnaEL6bTxJiis5LZ0=
+MD5-Digest: DUZByNo56nQ8MdX78M4jsg==
+Name: m.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: /AQOaqb8eeIShNCWiZsC+qw8wAE=
+MD5-Digest: nTj725KmTfLGTgBKgFQ8JA==
+Name: b.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: 7jLygFXv31XLryrVxgVZM5KGG/0=
+MD5-Digest: QgWhICuXTWszkSYMS3vN8Q==
+Name: n.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: sCQuHSkLrHH5FdIK7/WrsOPjQfk=
+MD5-Digest: vuWYgd/4wVJeNbHMwMFJKw==
+Name: g.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: Ux/jR+dYNUzzFQ8PL8XRpYBOfnA=
+MD5-Digest: 7e9FOnvj4sxPj6WtAwpm/w==
+Name: h.class
+Digest-Algorithms: SHA-1 MD5
+SHA-1-Digest: 51low8pQXsy4lzVrceNHuxFSj2s=
+MD5-Digest: RBgHe65q12qzkWfYRtP2zA==
+Name: bluearm.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: WvX+gIfnEppU1P7p+xKN9GBMGTI=
+MD5-Digest: wkkNVN23SwXu2S5I2LYixg==
+Name: bluebody.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: FNS/HB48qXyln+YZmNCTlyhGPFI=
+MD5-Digest: MHzKyZa+EjSRo9omZrTrdg==
+Name: blueleg.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: GBwAhJFHP4PMp6qc/zet/mmE6oM=
+MD5-Digest: p9+qLBbKdesMidL1OdoxGA==
+Name: engine.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: r+SKSfia95WpHMcoNDhUxSvnzZM=
+MD5-Digest: JkEuTNx6lbkOjmMGOxZxFg==
+Name: fender.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: qfaXcJBOAhpnb2BvVj87C8vE3KA=
+MD5-Digest: MxVuPTPd2nN1NOCCkB9jKg==
+Name: helmet.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: PwwYd+2yn9Jbf+drh9UD3cwkCyg=
+MD5-Digest: 10PQ0UmwUJ/5CqqLofT4QQ==
+Name: ico.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: f4Gqx+uGjNC8or14j1dHxsXEa2U=
+MD5-Digest: n128L6LA2ECVcpaSrx3wLA==
+Name: levels.mrg
+Digest-Algorithms: SHA MD5
+SHA-Digest: yQbKpwCmWHzlyjiuFousqZjI8yA=
+MD5-Digest: 7P8/kTkcASYg6j9jjvTyHQ==
+Name: logo.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: oD+KXVjJrzeYtUImAPBotDFMEz0=
+MD5-Digest: zsrg65E+7OTHWFtJkkaTGQ==
+Name: raster.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: n5RzTjnKkqbLvkwA2ui0pe+ZTT8=
+MD5-Digest: 3sS8snW0SfNyveGzxVqOdA==
+Name: splash.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: s1moqcjhKtznSUfYcmkH2viCGAg=
+MD5-Digest: KvV8jn2cP7gxvobbtbOBQw==
+Name: sprites.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: KcXUQIMUZzFcIG8PV1FTqdCeigs=
+MD5-Digest: 4XXzf+3ExYhhOTjH9Z3msw==
+MIDlet-Jar-Size: 63616
+MIDlet-Jar-URL: GDTR.jar
+MIDlet-Delete-Confirm: Бесплатные загрузки на SEclub.ORG
+MIDlet-Description: Лучшие игры на SEclub.ORG
